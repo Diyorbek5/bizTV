@@ -1,0 +1,30 @@
+export const hafta=[
+{
+    id:1,
+    name:'DUSHANBA'
+},
+{
+    id:1,
+    name:'SESHANBA'
+},
+{
+    id:1,
+    name:'CHORSHANBA'
+},
+{
+    id:1,
+    name:'PAYSHANBA'
+},
+{
+    id:1,
+    name:'JUMA'
+},
+{
+    id:1,
+    name:'SHANBA'
+},
+{
+    id:1,
+    name:'YAKSHANBA'
+},
+]
